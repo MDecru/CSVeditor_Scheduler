@@ -1,0 +1,7 @@
+interval,command,value
+5,testpattern,red
+5,power,10
+5,testpattern,green
+5,power,20
+5,testpattern,blue
+5,power,30
